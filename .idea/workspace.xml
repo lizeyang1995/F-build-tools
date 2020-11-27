@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../week1/entrance-quiz/B-entrance-quiz" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week2/B-Restful-api-design-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week2/B-java-serialization-with-jackson-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week2/B-spring-ioc-container-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week2/B-spring-mvc-basics-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week2/B-spring-mvc-basics-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week3/B-basic-quiz" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week3/B-java8-date-time-api-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week4/B-spring-boot-testing-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week4/B-spring-config-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week4/C-docker-and-docker-compose-basics-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week4/C-docker-and-docker-compose-basics-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week4/C-docker-and-docker-compose-basics-homework/alice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week4/C-docker-and-docker-compose-basics-homework/bob" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/CE/acg-mock-server" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/CE/order-service" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/CE/user-service" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/CE/webapi-gateway" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/Java-Basic/java-basic-exercise" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/Java-Basic/java-basic-self-testing-practice" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/week1/basic-api-implementation" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/week1/refactor-team-b" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/week1/spring-test" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/week1/tdd" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/week1/tdd-bowling" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/week1/test-double" value="PREVIEW" />
+        <entry key="D:/ThoughtWorks-TWU/week2/quiz/back-end" value="PREVIEW" />
+        <entry key="D:/git_test/final/master-java-level-1" value="PREVIEW" />
+        <entry key="D:/git_test/week1test/bronze-java-level-1" value="PREVIEW" />
+        <entry key="D:/git_test/week2/bronze-java-sim-level-2" value="PREVIEW" />
+        <entry key="D:/git_test/week2test/bronze-java-level-2" value="PREVIEW" />
+        <entry key="D:/git_test/week3test/bronze-java-level-3" value="PREVIEW" />
+        <entry key="D:/git_test/week4/empty-java-with-test" value="PREVIEW" />
+        <entry key="D:/git_test/week4test/silver-scene-java-level-1" value="PREVIEW" />
+        <entry key="D:/git_test/week5test/silver-java-level-2" value="PREVIEW" />
+        <entry key="D:/git_test/week6test-mid/silver-java-level-3" value="PREVIEW" />
+        <entry key="D:/git_test/week7/gold-java-level-1" value="PREVIEW" />
+        <entry key="D:/git_test/week7/java-language-extend" value="PREVIEW" />
+        <entry key="D:/git_test/week8/gold-java-level-2" value="PREVIEW" />
+        <entry key="D:/java_test/idea_test/springmvcbasicshomework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
